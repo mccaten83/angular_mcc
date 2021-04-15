@@ -1,2 +1,5 @@
 Creando un nuevo fichero para este nuevo modulo 0 de Git.
 
+=====
+3. Volvemos a editar por 3era vez. Esta vez es desde el master.
+=====
